@@ -1,0 +1,12 @@
+{
+    "name": "infrared/fixtures",
+    "type": "project",
+    "require": {
+        "ramsey/uuid": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "AppTest\\": "src/"
+        }
+    }
+}
